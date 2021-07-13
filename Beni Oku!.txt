@@ -1,0 +1,4 @@
+Dosya içine bulunan hastaneoto.bak ve mdf dosyalarını Microsoft SQL programında açarak veri tabanını kullanabilir
+veya .mdf, .ldf ve .bak dosyalarını veritabanı dosyalarınızın bulunduğu konuma doğrudan kopyalayabilirsiniz.
+
+Not: Veri tabanı MsSQL 2003 programında hazırlanmıştır.
